@@ -1,3 +1,3 @@
 EASY PROGRAMS.
 Ready to compile
-It contains only basic java programs
+It contains only basic/simple java programs
